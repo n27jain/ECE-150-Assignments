@@ -1,0 +1,4 @@
+Current Problems :
+
+
+Incorrect Median----------Remeber the array is working properly and storing. Something wrong with the indexing. 

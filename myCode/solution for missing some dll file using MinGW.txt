@@ -1,0 +1,8 @@
+Get error with MinGW for missing some dll file?
+
+Here are the steps about how you solve it:
+1. Run the programe to see what file it is missing
+2. go under your C:/MinGW/bin folder to find out that missing file
+3. Copy and paste it to the directory where your program actually is
+4. Another error show up, repeat step 1-3
+5. You can run your program now!
